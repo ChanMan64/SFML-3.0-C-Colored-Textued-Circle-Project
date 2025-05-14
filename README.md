@@ -1,4 +1,4 @@
-# SFML-3.0-C-Colored-Textued-Circle-Project
+# SFML-3.0-C-Colored-Textured-Circle-Project
 This project should help explain the steps in my code.
 It will show you how to draw a colored/textured circle to a window using SFML 3.0 and C++.
 I am using MacOS and VSCode, though this can be done using any OS and source code editor.

@@ -2,7 +2,7 @@
 #include <optional>
 
 int main() {
-    // Craetes the window named "window", (titled "My window" on the actual window)
+    // Creates the window named "window", (titled "My window" on the actual window)
     sf::RenderWindow window(sf::VideoMode({800, 600}), "My window");
 
     // Creates the circle shape named "shape"

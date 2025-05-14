@@ -1,4 +1,4 @@
-IF YOU WANT, USE THE GOOGLE DOC I PROVIDED. IT IS FORMATTED IN AN EASIER TO UNDERSTAND WAY.
+If you want a more well formatted explanation, use the pdf I provided.
 
 # SFML-3.0-C++-Colored-Textured-Circle-Project
 This project should help explain the steps in my code.
